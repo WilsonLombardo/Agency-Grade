@@ -1,4 +1,4 @@
-# Marketing Mix Modeling (MMM) & ROAS Optimization 🚀
+# Marketing Mix Modeling (MMM) & ROAS Optimization 
 
 Este repositorio contiene un motor de optimización matemática diseñado para maximizar el **ROAS (Return on Ad Spend)** en campañas publicitarias multicanal, aplicando principios de rendimientos decrecientes y saturación de mercado.
 
